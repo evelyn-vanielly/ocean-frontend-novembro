@@ -23,5 +23,8 @@ transition: all 0,1s ease-in-out;
 }
 
 .card > h2 {
-  font-family:Inter, Verdana, Verdana, Geneva, Tahoma, sans-serif
+  font-family:Inter, Verdana, Verdana, Geneva, Tahoma, sans-serif;
+ 
+  box-shadow: -0.5rem 0rem  rgb(0, 0, 0) padding: 10rem ; 
+  
 }
